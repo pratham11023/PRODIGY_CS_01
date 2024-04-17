@@ -1,6 +1,6 @@
 # PRODIGY_CS_01
-#Pratham Koturwar
-#Caesar cipher
+# Pratham Koturwar
+# Caesar cipher
 import tkinter as tk
 
 def caesar_cipher(text, shift, mode):
